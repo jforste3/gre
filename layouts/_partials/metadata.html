@@ -1,0 +1,41 @@
+<div class="metadata">
+
+{{- with .Params.gre_id }}
+	{{ $url := print $.Site.BaseURL "id/" . "/" }}
+	<div>
+		Permalink: <a href="{{ $url }}">{{ $url }}</a>
+	</div>
+{{- end }}
+
+{{- $page := .Page -}}
+
+{{- with .Params.author -}}
+	{{- $vals := partial "listify.html" . -}}
+	<div>
+		Author{{ if gt (len $vals) 1 }}s{{ end }}:
+    	{{ range $i, $v := $vals }}
+			{{- if ne $i 0 -}}, {{ end -}}
+			{{ $link := $page.RelRef (dict "path" (add "people/" (urlize $v))) }}
+			<a href="{{ $link }}">{{ $v }}</a>
+		{{ end }}
+	</div>
+{{- end }}
+
+{{- with .Params.editor }}
+	{{ $vals := partial "listify.html" . }}
+	<div>
+		Editor{{ if gt (len $vals) 1 }}s{{ end }}:
+    	{{ range $i, $v := $vals -}}
+			{{- if ne $i 0 -}}, {{ end -}}
+			<a href="/people/{{ urlize $v }}">{{ $v }}</a>
+		{{- end -}}
+	</div>
+{{- end }}
+
+{{/*
+{{- with .Date -}}
+	<div>Updated: {{ time.Format "2006-01-02" . }}</div>
+{{- end -}}
+*/}}
+
+</div>

@@ -10,7 +10,7 @@ The Gardens of the Roman Empire Project has engaged a wonderful community of sch
 We gratefully acknowledge our past editors and the many volunteer and student assistants who have helped us build this project over the years. **[Join us!]({{<ref "contribute/">}})**
 
 - *Italics* original editors
-- \*  Deceased  
+- \*  Deceased
 - Corresponding editors are noted in **bold**.
 
 ## Executive Editors & Digital Humanities Team

@@ -11,10 +11,12 @@ buildDrafts = false
 enableEmoji = true
 enableInlineShortcodes = true
 
+# This prevents diacritics in URLs (as for links to people pages)
+removePathAccents = true
+
 # This forces the "title" function to capitalize EVERY word
 # The default setting "ap" does not capitalize "via"...
 titleCaseStyle = "go"
-
 
 # This needs to be high to insure .Summary includes the Garden Description
 summaryLength = 10000
