@@ -4,7 +4,7 @@ aliases: [/id/7ed18f2ec4]
 type: garden
 title: "The terrance"
 latlon: [ 0, 0 ]
-author: Salza Prina Ricotti
+author: Eugenia Salza Prina Ricotti
 contributor: Yuyao Liu
 date: 2020-11-07
 modified: 2025-06-29

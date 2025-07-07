@@ -4,7 +4,7 @@ aliases: [/id/8a45b729f8]
 type: garden
 title: "The garden on the back"
 latlon: [ 41.625, 12.375 ]
-author: Salza Prina Ricotti
+author: Eugenia Salza Prina Ricotti
 contributor: Yuyao Liu
 date: 2020-11-07
 modified: 2025-06-29
