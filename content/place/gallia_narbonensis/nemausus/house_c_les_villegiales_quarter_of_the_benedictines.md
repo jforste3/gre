@@ -43,11 +43,11 @@ House C is 300 meters east of the source of the big spring at the foot of Mt. Ca
 
 ## Plans
 
-{{< image file="house_c_les_villegiales_quarter_of_the_benedictines_1.png" caption="Fig. 1 Plan of House C, Les Villégiales, quarter of the Benedictines" credit="" alt="Plan of House C, Les Villégiales, quarter of the Benedictines" >}}
+{{< image file="house_c_les_villegiales_quarter_of_the_benedictines_1.png" caption="Fig. 1 Plan of House C, Les Villégiales, quarter of the Benedictines" credit="" alt="" >}}
 
-{{< image file="house_c_les_villegiales_quarter_of_the_benedictines_2.png" caption="Fig. 2 Plan of House C, Les Villégiales, quarter of the Benedictines" credit="" alt="Plan of House C, Les Villégiales, quarter of the Benedictines" >}}
+{{< image file="house_c_les_villegiales_quarter_of_the_benedictines_2.png" caption="Fig. 2 Plan of House C, Les Villégiales, quarter of the Benedictines" credit="" alt="" >}}
 
-{{< image file="house_c_les_villegiales_quarter_of_the_benedictines_3.jpg" caption="Fig. 3 Plan of House C, Les Villégiales, quarter of the Benedictines" credit="" alt="Plan of House C, Les Villégiales, quarter of the Benedictines" >}}
+{{< image file="house_c_les_villegiales_quarter_of_the_benedictines_3.jpg" caption="Fig. 3 Plan of House C, Les Villégiales, quarter of the Benedictines" credit="" alt="" >}}
 
 ## Dates
 

@@ -55,11 +55,11 @@ The final phase lasted about fifty years, beginning in the first half of the thi
 
 ## Plans
 
-{{< image file="house_of_the_columns_phase1.png" caption="Fig. 1 Plan of House of the columns_phase1" credit="" alt="Plan of House of the columns_phase1" >}}
+{{< image file="house_of_the_columns_phase1.png" caption="Fig. 1 Plan of House of the columns_phase1" credit="" alt="" >}}
 
-{{< image file="house_of_the_columns_phase2.png" caption="Fig. 2 Plan of House of the columns_phase2" credit="" alt="Plan of House of the columns_phase2" >}}
+{{< image file="house_of_the_columns_phase2.png" caption="Fig. 2 Plan of House of the columns_phase2" credit="" alt="" >}}
 
-{{< image file="house_of_the_columns_phase3.png" caption="Fig. 3 Plan of House of the columns_phase2" credit="" alt="Plan of House of the columns_phase3" >}}
+{{< image file="house_of_the_columns_phase3.png" caption="Fig. 3 Plan of House of the columns_phase2" credit="" alt="" >}}
 
 <!-- ## Dates -->
 

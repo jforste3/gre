@@ -63,9 +63,9 @@ The *Thermae* burned in the fire of 80 CE ([Cass. Dio 66.24](http://data.perseus
 
 ## Figures
 
-{{< image file="thermae_agrippae_fig1.jpg" caption="Fig. 1: Marble Plan Fragment (Yegül, fig. 143, p. 134)." credit="" alt="Marble Plan Fragment" >}}
+{{< image file="thermae_agrippae_fig1.jpg" caption="Fig. 1: Marble Plan Fragment (Yegül, fig. 143, p. 134)." credit="" alt="" >}}
 
-{{< image file="thermae_agrippae_fig2.jpg" caption="Fig. 2: Base Plan of the Thermae Agrippae (Yegül, fig. 145, p. 134, after Huelsen)." credit="" alt="Base Plan of the Thermae Agrippae" >}}
+{{< image file="thermae_agrippae_fig2.jpg" caption="Fig. 2: Base Plan of the Thermae Agrippae (Yegül, fig. 145, p. 134, after Huelsen)." credit="" alt="" >}}
 
 ## Dates
 

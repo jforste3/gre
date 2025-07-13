@@ -71,9 +71,9 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 
 ## Images
 
-{{< image file="ASIA_JUD_MACCHAREUS_2.jpg" caption="Figure 2:Section drawing of the research trench in the Southern Courtyard" credit="(Vörös, 2013)." alt="Figure 2: Section drawing of the research trench in the Southern Courtyard (Vörös, 2013)." >}}
+{{< image file="ASIA_JUD_MACCHAREUS_2.jpg" caption="Figure 2:Section drawing of the research trench in the Southern Courtyard" credit="(Vörös, 2013)." alt="" >}}
 
-{{< image file="ASIA_JUD_MACCHAREUS.jpg" caption="Figure 3:Cutaway bird's eye view of the Herodian fortified royal palace from the south. This theoretical reconstruction is superimposed on an aerial photograph by David Kennedy." credit="" alt="Figure 3: Cutaway bird's eye view of the Herodian fortified royal palace from the south. This theoretical reconstruction is superimposed on an aerial photograph by David Kennedy.." >}}
+{{< image file="ASIA_JUD_MACCHAREUS.jpg" caption="Figure 3:Cutaway bird's eye view of the Herodian fortified royal palace from the south. This theoretical reconstruction is superimposed on an aerial photograph by David Kennedy." credit="" alt="" >}}
 
 <!--
 ## Dates

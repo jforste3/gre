@@ -44,7 +44,7 @@ When the house was transformed into a church, during the middle of the IVth cent
 
 ## Plans
 
-{{< image file="AFR_Hor_Htp_Amalek1.jpg" caption="Fig. 1: Plan of the House of Two Peristyles." credit="(Ennaïfer, M., Ouertani, N., 2001, fig.2)" alt="Plan of the House of Two Peristyles at Horrea Caelia" >}}
+{{< image file="AFR_Hor_Htp_Amalek1.jpg" caption="Fig. 1: Plan of the House of Two Peristyles." credit="(Ennaïfer, M., Ouertani, N., 2001, fig.2)" alt="" >}}
 
 <!-- ## Images -->
 

@@ -52,7 +52,7 @@ In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the ga
 
 ## Plans
 
-{{< image file="house_with_the_five_mosaics.png" caption="Plan of house with five mosaics" credit="" alt="Plan of House with the Five Mosaics" >}}
+{{< image file="house_with_the_five_mosaics.png" caption="Plan of house with five mosaics" credit="" alt="" >}}
 
 <!-- ## Dates -->
 

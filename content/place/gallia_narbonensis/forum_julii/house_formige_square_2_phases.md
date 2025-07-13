@@ -50,13 +50,13 @@ Around A.D. 65 – 70, the house entered a second stage which lasted three and a
 
 ## Plans
 
-{{< image file="house_formige_square_2phases_2.png" caption="Fig. 1 Plan of the House Formigé Square-2 phases" credit="" alt="Plan House Formigé Square-2 phases" >}}
+{{< image file="house_formige_square_2phases_2.png" caption="Fig. 1 Plan of the House Formigé Square-2 phases" credit="" alt="" >}}
 
 ## images
 
-{{< image file="house_formige_square_2phases_1.png" caption="Excavation of the House Formigé Square" credit="" alt="Excavation of House Formigé Square" >}}
+{{< image file="house_formige_square_2phases_1.png" caption="Excavation of the House Formigé Square" credit="" alt="" >}}
 
-{{< image file="house_formige_square_2phases_3.png" caption="Axon of the House Formigé Square" credit="" alt="Axon of House Formigé Square" >}}
+{{< image file="house_formige_square_2phases_3.png" caption="Axon of the House Formigé Square" credit="" alt="" >}}
 
 ## Dates
 
