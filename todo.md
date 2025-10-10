@@ -15,12 +15,15 @@
 - [ ] Bibliography first item actually two? https://roman-gardens.github.io/province/italia/rome/regio_x_palatium/domus_augustana/
 - [ ] how to handle alternative names of a garden -- example https://roman-gardens.github.io/test-a/id/5c8aada6d5
 - Can we show progress in number of gardens in each place?  ("23 out of 35 known gardens have been published")
+- display metadata for place pages
 
 # Images
 - some photos we want lower resolution (so copyright holder can control access to full resolution)
 - link to reuse/take-down policy in image captions
 - set permissions on image repo to prevent deletion, modification?
 - images: remove alt unless it provides additional info
+- handle links in captions/credits
+- remove "Credit: " from display of image credit?  (Review credit values to see if they can stand on their own?)
 
 # Cleanup
 
@@ -38,7 +41,6 @@
 - new meta page section showing UNLINKED keywords (literary gardens, etc.)
 - keywords -- use glossary from GRE v.1
 - keywords like lucus, nemus (recode as keyword "groves"?), oscilla, stagnum, textrina that are not proper AAT terms
-- "literary gardens" keyword okay, but do we really need "archaeological gardens"? (currently commented out in the relatively few articles that have it, but nearly all the gardens are arch.)
 - Search for any keywords mentioned in text that are not listed under the garden keywords
 - public list of keywords as glossary (similiar to /meta page)
 
